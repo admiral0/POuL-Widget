@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=POuL Widget
+Comment=POuL office status widget
+Type=qt
+X-Path=poul-widget
+X-Multiple-Instances=false
+X-home-applet-minwidth=100
+X-home-applet-minheight=72
